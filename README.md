@@ -1,3 +1,6 @@
+## Histoire
+L'envie de modifier le code source d'un jeu vidéo auquel je jouais à l'époque m'a poussé à apprendre le langage de programmation Java en CM2. J'ai rapidement fini par programmer pour le plaisir même de la chose et maintenant encore je continue à être passionné de tous les sujets relatifs, de près ou de loin, à l'informatique dans sa forme la plus générale.
+
 ## Projets
 Voici une petite liste de projets personnels présentables que je suis en droit de présenter :
 - [3D_Window](https://github.com/RaphaelNJ/3D_Window) - Moteur graphique 3D rudimentaire inspiré de celui du premier [DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
@@ -5,9 +8,6 @@ Voici une petite liste de projets personnels présentables que je suis en droit 
 - [VisualScripting.js](https://github.com/RaphaelNJ/VisualScripting.js) - Logiciel de programmation visuelle (comme Scratch) inspiré du [BluePrint d'Unreal Engine](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/)
 - [vs_rs](https://github.com/RaphaelNJ/vs_rs) - Réécriture de [VisualScripting.js](https://github.com/RaphaelNJ/VisualScripting.js) en Rust avec ajout de fonctionnalités
 - [Recursive-reader](https://github.com/RaphaelNJ/Recursive-reader) - Programme assurant le nombre total de lignes et de caractères de chaque fichier présent dans un répertoire donné
-
-## Histoire
-L'envie de modifier le code source d'un jeu vidéo auquel je jouais à l'époque m'a poussé à apprendre le langage de programmation Java en CM2. J'ai rapidement fini par programmer pour le plaisir même de la chose et maintenant encore je continue à être passionné de tous les sujets relatifs, de près ou de loin, à l'informatique dans sa forme la plus générale.
 
 ## Technologies & Langages
 
