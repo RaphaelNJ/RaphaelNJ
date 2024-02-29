@@ -1,5 +1,3 @@
-Voici les corrections apportées à votre texte :
-
 ## Projets
 Voici une petite liste de projets personnels présentables que je suis en droit de présenter :
 - [3D_Window](https://github.com/RaphaelNJ/3D_Window) - Moteur graphique 3D rudimentaire inspiré de celui du premier [DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
