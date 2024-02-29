@@ -1,18 +1,19 @@
-## Projets
-Voici une petite liste de projets personels présentables que je suis en droit de présenter:
-- [3D_Window](https://github.com/RaphaelNJ/3D_Window) - Moteur graphique 3D rudimentaire inspiré de celui du premier [DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
-- [md2html.rs](https://github.com/RaphaelNJ/md2html.rs) - Outil pour créer des sites statics sans code : Convertisseur Markdown vers HTML.
-- [VisualScripting.js](https://github.com/RaphaelNJ/VisualScripting.js) - Logiciel de programmation visuelle (comme Scratch) inspiré du [BluePrint d'Unreal Engine](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/) 
-- [vs_rs](https://github.com/RaphaelNJ/vs_rs) - Réécriture de [VisualScripting.js](https://github.com/RaphaelNJ/VisualScripting.js) en Rust avec ajout de fonctionalitées
-- [Recurcive-reader](https://github.com/RaphaelNJ/Recurcive-reader) - Programme esurant le nombre total de lignes et de caractères de chaques fichiers présents dans un répertoire donné
+Voici les corrections apportées à votre texte :
 
+## Projets
+Voici une petite liste de projets personnels présentables que je suis en droit de présenter :
+- [3D_Window](https://github.com/RaphaelNJ/3D_Window) - Moteur graphique 3D rudimentaire inspiré de celui du premier [DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
+- [md2html.rs](https://github.com/RaphaelNJ/md2html.rs) - Outil pour créer des sites statiques sans code : Convertisseur Markdown vers HTML.
+- [VisualScripting.js](https://github.com/RaphaelNJ/VisualScripting.js) - Logiciel de programmation visuelle (comme Scratch) inspiré du [BluePrint d'Unreal Engine](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/)
+- [vs_rs](https://github.com/RaphaelNJ/vs_rs) - Réécriture de [VisualScripting.js](https://github.com/RaphaelNJ/VisualScripting.js) en Rust avec ajout de fonctionnalités
+- [Recursive-reader](https://github.com/RaphaelNJ/Recursive-reader) - Programme assurant le nombre total de lignes et de caractères de chaque fichier présent dans un répertoire donné
 
 ## Histoire
-L'envie de modifier le code source d'un jeu vidéo auquel je jouait à l'époque, m'a poussé à apprendre le language de programmation Java en CM2. J'ai rapidement fini par programmer pour le plaisir même de la chose et maintenant encode je continue à être passionné de tous les sujets relatées, de prrès ou de loin à l'informatique dans sa forme la plus générale.
+L'envie de modifier le code source d'un jeu vidéo auquel je jouais à l'époque m'a poussé à apprendre le langage de programmation Java en CM2. J'ai rapidement fini par programmer pour le plaisir même de la chose et maintenant j'encode je continue à être passionné de tous les sujets relatifs, de près ou de loin, à l'informatique dans sa forme la plus générale.
 
-## Technologies & Languages
+## Technologies & Langages
 
-### Souvent utilisées
+### Souvent utilisés
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -31,7 +32,7 @@ L'envie de modifier le code source d'un jeu vidéo auquel je jouait à l'époque
 ![BunJS](https://img.shields.io/badge/-BunJS-000?&logo=bun)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
-### Utilisées periodiquement ou ponctuellement
+### Utilisés périodiquement ou ponctuellement
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![EJS](https://img.shields.io/badge/-EJS-000?&logo=EJS)
@@ -52,7 +53,7 @@ L'envie de modifier le code source d'un jeu vidéo auquel je jouait à l'époque
 ![RISK-V](https://img.shields.io/badge/-RISK--V-000?&logo=riscv)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
-### Pas utilisées récament (certianes pas utilisées depuis 2018)
+### Pas utilisés récemment (certaines pas utilisées depuis 2018)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
@@ -74,9 +75,8 @@ L'envie de modifier le code source d'un jeu vidéo auquel je jouait à l'époque
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
 ![Clojure](https://img.shields.io/badge/-Clojure-000?&logo=Clojure)
 
-
 ### Envie d'apprendre
-tout... mais pour ce qui est de ce que j'ai en vue en ce moment:
+Tout... mais pour ce qui est de ce que j'ai en vue en ce moment :
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
