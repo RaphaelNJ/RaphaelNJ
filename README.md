@@ -52,7 +52,7 @@ L'envie de modifier le code source d'un jeu vidéo auquel je jouait à l'époque
 ![RISK-V](https://img.shields.io/badge/-RISK--V-000?&logo=riscv)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
-### Jamais utilisées (certianes pas utilisées depuis 2018)
+### Pas utilisées récament (certianes pas utilisées depuis 2018)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
