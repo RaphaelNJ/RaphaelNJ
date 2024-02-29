@@ -1,3 +1,12 @@
+## Projets
+Voici une petite liste de projets personels présentables que je suis en droit de présenter:
+- [3D_Window](https://github.com/RaphaelNJ/3D_Window) - Moteur graphique 3D rudimentaire inspiré de celui du premier [DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
+- [md2html.rs](https://github.com/RaphaelNJ/md2html.rs) - Outil pour créer des sites statics sans code : Convertisseur Markdown vers HTML.
+- [VisualScripting.js](https://github.com/RaphaelNJ/VisualScripting.js) - Logiciel de programmation visuelle (comme Scratch) inspiré du [BluePrint d'Unreal Engine](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/) 
+- [vs_rs](https://github.com/RaphaelNJ/vs_rs) - Réécriture de [VisualScripting.js](https://github.com/RaphaelNJ/VisualScripting.js) en Rust avec ajout de fonctionalitées
+- [Recurcive-reader](https://github.com/RaphaelNJ/Recurcive-reader) - Programme esurant le nombre total de lignes et de caractères de chaques fichiers présents dans un répertoire donné
+
+
 ## Histoire
 L'envie de modifier le code source d'un jeu vidéo auquel je jouait à l'époque, m'a poussé à apprendre le language de programmation Java en CM2. J'ai rapidement fini par programmer pour le plaisir même de la chose et maintenant encode je continue à être passionné de tous les sujets relatées, de prrès ou de loin à l'informatique dans sa forme la plus générale.
 
