@@ -7,7 +7,7 @@ Voici une petite liste de projets personnels présentables que je suis en droit 
 - [Recursive-reader](https://github.com/RaphaelNJ/Recursive-reader) - Programme assurant le nombre total de lignes et de caractères de chaque fichier présent dans un répertoire donné
 
 ## Histoire
-L'envie de modifier le code source d'un jeu vidéo auquel je jouais à l'époque m'a poussé à apprendre le langage de programmation Java en CM2. J'ai rapidement fini par programmer pour le plaisir même de la chose et maintenant j'encode je continue à être passionné de tous les sujets relatifs, de près ou de loin, à l'informatique dans sa forme la plus générale.
+L'envie de modifier le code source d'un jeu vidéo auquel je jouais à l'époque m'a poussé à apprendre le langage de programmation Java en CM2. J'ai rapidement fini par programmer pour le plaisir même de la chose et maintenant encore je continue à être passionné de tous les sujets relatifs, de près ou de loin, à l'informatique dans sa forme la plus générale.
 
 ## Technologies & Langages
 
