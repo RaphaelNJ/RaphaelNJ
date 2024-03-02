@@ -11,7 +11,7 @@ Voici une liste d'une partie de mes projets **personnels présentables** :
   - [vs_rs](https://github.com/RaphaelNJ/vs_rs) - Rust, encore en développement (mais reste le plus abouti)
 - [Recursive-reader](https://github.com/RaphaelNJ/Recursive-reader) - Programme assurant le nombre total de lignes et de caractères de chaque fichier présent dans un répertoire donné
 - [Simple2DEngine.ts](https://github.com/RaphaelNJ/Simple2DEngine.ts) - Moteur 2D en typescript, permet d'afficher pixels, lignes, formes basiques, images... supporte les matrices de transformations.
-- Quelques languages de templating HTML (et inspiré de [EJS](https://ejs.co/) ou [HandlebarsJS](https://handlebarsjs.com/))
+- Quelques languages de templating HTML (inspiré de [EJS](https://ejs.co/) et [HandlebarsJS](https://handlebarsjs.com/))
   - [HTML-View](https://github.com/RaphaelNJ/HTML-View)
 ## Technologies & Langages
 
