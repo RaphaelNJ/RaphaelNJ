@@ -69,6 +69,7 @@ Voici une liste d'une partie de mes projets **personnels présentables** :
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
 ![Virtual Box](https://img.shields.io/badge/-Virtual_Box-000?&logo=virtualbox)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
+![GLSL](https://img.shields.io/badge/-GLSL-000?&logo=GLSL)
 
 ### En apprentissage
 ![Clojure](https://img.shields.io/badge/-Clojure-000?&logo=Clojure)
