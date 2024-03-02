@@ -7,8 +7,8 @@ Voici une liste d'une partie de mes projets **personnels présentables** :
 - [md2html.rs](https://github.com/RaphaelNJ/md2html.rs) - Outil pour créer des sites statiques sans code : Convertisseur Markdown vers HTML.
 - Quelques tentatives de création d'un logiciel de programmation viseuelle (comme [Scratch](https://scratch.mit.edu/)) inspiré du [BluePrint d'Unreal Engine](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/) (du plus ancien et immature au plus ancien et mature)
   - [VisualScripting.js](https://github.com/RaphaelNJ/VisualScripting.js) - Javascript (Prototype)
-  - [vs-ts](https://github.com/RaphaelNJ/vs-ts) - Typescript, plus ou moins terminé
-  - [vs_rs](https://github.com/RaphaelNJ/vs_rs) - Rust, encore en développement actif (mais reste le plus abouti)
+  - [vs-ts](https://github.com/RaphaelNJ/vs-ts) - Typescript, réécriture complete, plus ou moins terminé
+  - [vs_rs](https://github.com/RaphaelNJ/vs_rs) - Rust, réécriture complete, encore en développement actif (mais reste le plus abouti)
 - [Recursive-reader](https://github.com/RaphaelNJ/Recursive-reader) - Programme assurant le nombre total de lignes et de caractères de chaque fichier présent dans un répertoire donné
 - [Simple2DEngine.ts](https://github.com/RaphaelNJ/Simple2DEngine.ts) - Moteur 2D en typescript, permet d'afficher pixels, lignes, formes basiques, images, etc. Supporte les [matrices de transformations](https://en.wikipedia.org/wiki/Transformation_matrix).
 - Quelques languages de templating HTML (inspirés de [EJS](https://ejs.co/) et [HandlebarsJS](https://handlebarsjs.com/))
